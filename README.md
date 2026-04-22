@@ -112,6 +112,12 @@ src/
 └── styles/
     └── globals.css          # Global styles + Tailwind
 
+---
+
+## Deployment Status
+✅ Ready for production. Deployed on Vercel.
+Deployment triggered: April 22, 2026
+
 public/
 ├── products/                # Product images
 └── placeholder-product.png
